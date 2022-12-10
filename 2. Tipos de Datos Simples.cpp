@@ -1,10 +1,13 @@
 //Datos simples de C++
 
-//Tenemos cuatro tipos de datos simples.
-//int, para números enteros.
-//float, para números decimales.
-//double, para números con varios decimales.
-//char, para texto.
+/*
+Tenemos cuatro tipos de datos simples.
+--------------------------------------
+int, para números enteros.
+float, para números decimales.
+double, para números con varios decimales.
+char, para texto.
+*/
 
 //endl sirve para que lo próximo que escriba el programa lo haga en la próxima línea. Es como un enter.
 
