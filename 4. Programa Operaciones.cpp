@@ -1,4 +1,4 @@
-//Hace operaciones con dos números que des
+//Hace operaciones con dos nÃºmeros que des
 
 #include<iostream>
 
