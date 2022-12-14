@@ -1,4 +1,4 @@
-//Escribe la siguiente expresión: (a/b)+1
+//Escribe la siguiente expresiÃ³n: (a/b)+1
 
 #include<iostream>
 
@@ -13,7 +13,7 @@ int main(){
 	
 	resultado = (a/b)+1;
 	
-	cout.precision(3);	//Esto sirve para redondear el número, en este caso queremos que aparezcan 3 dígitos
+	cout.precision(3);	//Esto sirve para redondear el nÃºmero, en este caso queremos que aparezcan 3 dÃ­gitos
 	cout<<"El resultado es: "<<resultado;
 	return 0;
 }
